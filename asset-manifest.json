@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/PressDaily/static/css/main.544882c0.css",
-    "main.js": "/PressDaily/static/js/main.34e94275.js",
+    "main.js": "/PressDaily/static/js/main.c5d05dd4.js",
     "static/js/787.9e6188a1.chunk.js": "/PressDaily/static/js/787.9e6188a1.chunk.js",
     "static/media/spinner.gif": "/PressDaily/static/media/spinner.a1a996746e5e48352c81.gif",
     "index.html": "/PressDaily/index.html",
     "main.544882c0.css.map": "/PressDaily/static/css/main.544882c0.css.map",
-    "main.34e94275.js.map": "/PressDaily/static/js/main.34e94275.js.map",
+    "main.c5d05dd4.js.map": "/PressDaily/static/js/main.c5d05dd4.js.map",
     "787.9e6188a1.chunk.js.map": "/PressDaily/static/js/787.9e6188a1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.544882c0.css",
-    "static/js/main.34e94275.js"
+    "static/js/main.c5d05dd4.js"
   ]
 }
